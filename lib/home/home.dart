@@ -1,7 +1,6 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_svg/flutter_svg.dart';
-import 'package:fooddelivery/restaurant_detail/restaurant_detail_screen.dart';
 import 'package:fooddelivery/datasource/remote_restaurants_repository.dart';
 import 'package:fooddelivery/home/home_screen_bloc.dart';
 import 'package:fooddelivery/model/restaurant.dart';

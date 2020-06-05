@@ -1,9 +1,9 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
+import 'package:fooddelivery/detail/restaurant_detail_screen.dart';
 import 'package:fooddelivery/model/restaurant.dart';
 import 'package:flutter_svg/flutter_svg.dart';
 
-import '../restaurant_detail/restaurant_detail_screen.dart';
 
 class RestaurantWidget extends StatelessWidget {
 
