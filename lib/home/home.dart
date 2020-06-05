@@ -29,6 +29,12 @@ class HomeScreenState extends State<HomeScreen>{
 
 
   @override
+  void dispose() {
+    super.dispose();
+    homeScreenBloc.dispose();
+  }
+
+  @override
   Widget build(BuildContext context) {
     // TODO: implement build
     return Scaffold(
